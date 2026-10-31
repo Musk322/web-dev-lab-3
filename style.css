@@ -42,8 +42,7 @@ nav a {
   color: #ff744a;
   animation: colorChange 5s infinite;
   text-align: center;
-}
-
+}
 @keyframes colorChange {
   0%   { color: #7b0267; }
   25%  { color: #006400; }
